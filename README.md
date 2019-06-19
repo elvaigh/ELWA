@@ -1,1 +1,1 @@
-# ELWA
+# ELWA : Entity Linking With Embedding Alignement.
