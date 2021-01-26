@@ -1,5 +1,5 @@
 
 # Jupyter Notebook
 .ipynb_checkpoints
-
+.vscode/*
 embeddings/*
